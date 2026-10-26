@@ -1,0 +1,6 @@
+{
+  "name": "VOID Launcher",
+  "description": "Minimal, distraction-free Android launcher with a text-first home screen, monochrome app drawer, and instant local search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

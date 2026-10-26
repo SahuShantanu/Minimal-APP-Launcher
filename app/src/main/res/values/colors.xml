@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="void_background">#050505</color>
+    <color name="void_surface">#141414</color>
+    <color name="void_surface_elevated">#1C1C1C</color>
+    <color name="void_border">#292929</color>
+    <color name="void_text_primary">#F2F2F2</color>
+    <color name="void_text_secondary">#888888</color>
+    <color name="void_text_disabled">#555555</color>
+    <color name="void_focus">#DADADA</color>
+    <color name="void_pressed">#242424</color>
+</resources>
